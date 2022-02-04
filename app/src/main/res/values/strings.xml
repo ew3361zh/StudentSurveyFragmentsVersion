@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">StudentSurvey</string>
+    <string name="yes_button_text">Yes</string>
+    <string name="no_button_text">No</string>
+    <string name="reset_button_text">Reset</string>
+    <string name="no_count">%1$d</string>
+    <string name="yes_count">%1$d</string>
+    <string name="question_1">Do mice really eat cheese?</string>
+    <string name="question_2">Were you swimming when you were attacked by a shark?</string>
+    <string name="question_3">Is there anyone else following you besides the tall monster?</string>
+    <string name="question_4">Do you have more than one pair of blue footed pajamas?</string>
+    <string name="question_5">Was your last robotic upgrade painful?</string>
+    <string name="question_6">Does it rain when you cry?</string>
+    <string name="question_7">Is your house under police surveillance just on Tuesdays?</string>
+</resources>
