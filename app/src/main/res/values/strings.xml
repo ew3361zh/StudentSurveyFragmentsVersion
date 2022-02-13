@@ -2,9 +2,8 @@
     <string name="app_name">StudentSurvey</string>
     <string name="yes_button_text">Yes</string>
     <string name="no_button_text">No</string>
-    <string name="reset_button_text">Reset</string>
-    <string name="no_count">%1$d</string>
-    <string name="yes_count">%1$d</string>
+    <string name="no_count">%1$d no vote(s)</string>
+    <string name="yes_count">%1$d yes vote(s)</string>
     <string name="question_1">Do mice really eat cheese?</string>
     <string name="question_2">Were you swimming when you were attacked by a shark?</string>
     <string name="question_3">Is there anyone else following you besides the tall monster?</string>
@@ -12,4 +11,11 @@
     <string name="question_5">Was your last robotic upgrade painful?</string>
     <string name="question_6">Does it rain when you cry?</string>
     <string name="question_7">Is your house under police surveillance just on Tuesdays?</string>
+    <string name="get_results">Get Results</string>
+    <string name="reset_button_text">Reset</string>
+    <string name="continue_button_text">Continue</string>
+    <string name="keeping_results_message">Survey results saved, continuing on</string>
+    <string name="clearing_results_message">Survey results cleared, let\'s start over</string>
+    <string name="canceled_results_message">No decision made, results kept for now</string>
+    <string name="current_survey_results">Current Survey Results</string>
 </resources>
